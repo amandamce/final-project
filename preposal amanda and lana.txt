@@ -1,0 +1,17 @@
+# Preproposal
+
+## What idea(s) do you have for your final project?
+1. 2048 game
+2. the snake game
+3. tetris
+4. a webpage that asks for your name and email and a message is sent to your email
+5. import a photo and you are given different filters to change the photo
+6. a twitter bot posts an automated message every day at a specific time
+
+## If you plan to collaborate with one or two classmates, what are their names?
+
+Amanda McEachern and Lana Lerner
+
+## Do you have any questions of your own?
+none
+
