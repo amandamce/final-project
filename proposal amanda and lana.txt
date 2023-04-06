@@ -1,0 +1,38 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+2048
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+We would create a version of the game 2048 in python.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+The software we will use involves pygame, tkinter library, importing images, and choosing blocks to produce at random. Features will include swiping the screen to move the blocks in the same direction. If the blocks are swiped and come togther if their values are the same. This will form into one block with it equalling the sum of the two blocks. A new block will be produced after every swipe. The goal of the game is to have a block with a value of 2048. If there are no more spaces to produce a new block before reaching 2048 you lose. The images of these blocks will be produced in a 4 by 4 graph.
+
+
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+Amanda McEachern tuo12879@temple.edu, Lana Lerner lana.lerner@temple.edu
+TA: Chong Li
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+A good outcome would be that image of the game appearing, and the swiping and the combining of numbers works properly.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+A better outcome would be the game working exactly as it should including more features such as keeping score, and producing a new tile block  after every swipe.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+The best outcome would be the game to work properly and being able to change the colors and screen of the game.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+We have to learn and develop our skills into Pygame which we haven't used before. We will also use Tkinter to help with sizing of the grid and creating a canvas for it. We have not used this library in python before and it will be essiential to know how to properly use this library. We will most likely both do research on this since neither of us are too familiar with it. By looking through the properties of tkinter images, grids, and other graphical features. 
